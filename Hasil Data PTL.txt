@@ -1,0 +1,14 @@
+1. Througput= Jumlah Paket/Waktu pengiriman
+            = 9612439/90.388=106346,4 bit
+            = 106346,4 x 8 = 850771,25 k bits/s
+
+2. Paket loss= 0
+
+3.Delay = time 2 - time 1
+  total delay = 18.34236
+  rata-rata =Total delay/(jumlah packet-1)=18.34236/(876-1)
+            =0.020962697
+
+4.Jitler = Delay 2- Delay 1
+  Total Jitler = 6037.208082
+  Rata-rata = 0.680248798
